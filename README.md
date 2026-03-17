@@ -55,7 +55,7 @@ https://www.buydisplay.com/bar-type-6-2-inch-360x960-ips-tft-lcd-display-spi-rgb
 - Stereo System: ~$316
 https://www.cjponyparts.com/custom-autosound-backseat-driver-subwoofer-and-amp-kit-mustang-coupe/p/SPKBSD/?year=1967&gad_source=1&gad_campaignid=18909117275&gbraid=0AAAAAD1v5Vnli2oVyr04teAjluZE2ygaA&gclid=CjwKCAjw1N7NBhAoEiwAcPchp5f2Pbpk3mB9gdHXjOltnlR6sd11aJtCvTPpRwmM4yyA6dWXSmnhkhoCNUgQAvD_BwE
  https://www.cjponyparts.com/custom-autosound-dash-speaker-dual-voice-coil-1967-1973/p/SPK37/?year=1967&gad_source=1&gad_campaignid=18909117275&gbraid=0AAAAAD1v5Vnli2oVyr04teAjluZE2ygaA&gclid=CjwKCAjw1N7NBhAoEiwAcPchp_mdNLuy5fwNZeUD1eUtgQw62kOqOJEwcCOf8wRHOiaNW8XDT1iGRxoCL88QAvD_BwE
-- Total Cost: ~$450<img width="3016" height="637" alt="image" src="https://github.com/user-attachments/assets/5f1d8a27-d826-4e53-b9b1-c2feeb33c65b" />
+- Total Cost: ~$450
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
