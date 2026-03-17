@@ -46,9 +46,24 @@ Old car, lots of issues and not a lot of information
 
 ## BOM + Component Cost
 
+- ESP32: ~$15
+- Wiring: ~$20
+- Display: $18.69 
+https://www.buydisplay.com/bar-type-6-2-inch-360x960-ips-tft-lcd-display-spi-rgb-interface?srsltid=AfmBOoqdPzIde4CRA-pLlhab1WpiI5QF6dnMwMVYgXeuE5_esyXv1wml
+- Buck converter: $3-$8
+- Raspberry pi 4: $59.50
+- Stereo System: ~$316
+https://www.cjponyparts.com/custom-autosound-backseat-driver-subwoofer-and-amp-kit-mustang-coupe/p/SPKBSD/?year=1967&gad_source=1&gad_campaignid=18909117275&gbraid=0AAAAAD1v5Vnli2oVyr04teAjluZE2ygaA&gclid=CjwKCAjw1N7NBhAoEiwAcPchp5f2Pbpk3mB9gdHXjOltnlR6sd11aJtCvTPpRwmM4yyA6dWXSmnhkhoCNUgQAvD_BwE
+ https://www.cjponyparts.com/custom-autosound-dash-speaker-dual-voice-coil-1967-1973/p/SPK37/?year=1967&gad_source=1&gad_campaignid=18909117275&gbraid=0AAAAAD1v5Vnli2oVyr04teAjluZE2ygaA&gclid=CjwKCAjw1N7NBhAoEiwAcPchp_mdNLuy5fwNZeUD1eUtgQw62kOqOJEwcCOf8wRHOiaNW8XDT1iGRxoCL88QAvD_BwE
+- Total Cost: ~$450<img width="3016" height="637" alt="image" src="https://github.com/user-attachments/assets/5f1d8a27-d826-4e53-b9b1-c2feeb33c65b" />
+
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Timeline
+- Fix breaklights and signaling (4 weeks)
+- Design Bluetooth and audio system (5 weeks)
+- Install Stereo (1 week, assuming I didn’t mess up previous steps)
+
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
