@@ -1,24 +1,36 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Jonathan Meeker, Electrical Engineering Student (2026)
+jonathanm04@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Soy el mentor
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Restoring electrical system and stereo sound for an old 1967 mustang. Requires overhaul of electrical harnessing, new stereo systems, and designing a holographic display to output navigational directions and audio
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Designing an app
+Code in swift
+Will need apple developer account to upload to phone
+Building a circuit
+ESP32 (Bluetooth)
+OLED Screen (Display)
+Power (Car supply, need buck converter)
+Fixing legacy systems
+Old car, lots of issues and not a lot of information
+
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+- Assess current electrical system
+    Turn signals don't function, horn doesn't work, brake lights are iffy
+- Design holographic display
+- Overhaul stereo
 
 ## Design Decisions
 
